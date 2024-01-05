@@ -1522,14 +1522,14 @@ body {
 	-ms-user-select: none;
 	-webkit-user-select: none;
 	background: #1f2224;
-	bottom: -1em;
+	bottom: -3em;
 	height: 6em;
 	left: 0;
 	line-height: 4em;
 	padding: 0 1.5em;
 	position: fixed;
 	user-select: none;
-	width: 120%;
+	width: 100%;
 	z-index: 10002;
 }
 
